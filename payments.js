@@ -1,2 +1,2 @@
-// Admin Payments
-export default function AdminPayments() { return <h1>Admin Payments</h1>; }
+// API: Payments
+export default function handler(req, res) { res.status(200).json({message: 'Payments API'}); }
