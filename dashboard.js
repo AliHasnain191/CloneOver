@@ -1,2 +1,2 @@
-// Admin Dashboard
-export default function AdminDashboard() { return <h1>Admin Dashboard</h1>; }
+// Dashboard
+export default function Dashboard() { return <h1>User Dashboard</h1>; }
